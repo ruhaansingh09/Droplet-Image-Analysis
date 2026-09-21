@@ -31,13 +31,18 @@ The image-processing pipeline consists of:
 The effective diameter is calculated from the horizontal and
 vertical droplet dimensions.
 
+## Dataset
+
+The original experimental image dataset is not included in this
+repository. The repository contains the image-processing pipeline
+used for the analysis.
+
 ## Repository Structure
 
 ```text
-ME209-Droplet-Image-Analysis/
+Droplet-Image-Analysis/
 │
 ├── droplet_analysis.py
 ├── requirements.txt
 ├── README.md
-
 
